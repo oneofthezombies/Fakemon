@@ -12,6 +12,8 @@ i'll rewrite soon. because this is not running on current environment. :(
 # Sample Code
 
 ```
+//GameObject.h  
+
 typedef struct _GameObject
 {
     void(*Destroy)(struct _GameObject* self);
@@ -31,6 +33,8 @@ typedef struct _GameObject
 GameObject* CreateGameObject();
 ```
 ```
+// List.h
+
 typedef struct _List
 {
     void(*Destroy)(struct _List* self);
