@@ -1,0 +1,5 @@
+Failed to set console screen buffer size.
+Failed to set console screen buffer size.
+Failed to set console screen buffer size.
+Failed to set console screen buffer size.
+Failed to set console screen buffer size.

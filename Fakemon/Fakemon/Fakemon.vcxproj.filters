@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DataStructures">
+      <UniqueIdentifier>{e995c93b-d4b4-4dae-8c81-e9ebccc7f154}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{b8a25153-d9fc-4ec6-9e12-0a022d0156e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{155d6d08-03bf-4fd2-8bd0-4e2e763d8d7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{69a8d895-a142-4119-88b1-6f945614a7c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObjects">
+      <UniqueIdentifier>{6c3bdffb-8f3f-4a30-ba4a-4595f9dcc1b9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pair.h">
+      <Filter>DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="Dictionary.h">
+      <Filter>DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="File.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Fakemon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pair.c">
+      <Filter>DataStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="Dictionary.c">
+      <Filter>DataStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="List.c">
+      <Filter>DataStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.c">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.c">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectManager.c">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.c">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="File.c">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.c">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.c">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.c">
+      <Filter>Managers</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
