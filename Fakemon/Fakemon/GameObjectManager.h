@@ -1,4 +1,5 @@
 #pragma once
+
 typedef struct _GameObjectManager
 {
     void(*Destroy)(struct _GameObjectManager* self);
